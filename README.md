@@ -1,7 +1,7 @@
 # BillionBond - Waves Blockchain New Era!
 ![BillionBond.com](https://billionbond.com/wp-content/uploads/2018/07/cropped-BillionBond-2.png)
 
-BILLION BOND is a Digital Asset backed by Waves Blockchain Technology. BillionBond is open source and decentralized Bond token used to issue corporate and industrial sector wealth bonds and Insure bonds. BillionBond can send, receive, trade, invest in Gold ,Silver and Diamond and more. BillionBond can trade with all major cryptocurrencies Bitcoin and Waves. Its based on peer-to-peer and secure transactions using waves. BillionBond supply has only 10 BB Tokens and its non re-issuable tokens.
+BILLION BOND is a Digital Asset backed by Waves Blockchain Technology. BillionBond is open source and decentralized Bond token used to issue corporate and industrial sector wealth bonds and Insure bonds. BillionBond can send, receive, trade, invest in Gold ,Silver and Diamond and more. BillionBond can trade with all major cryptocurrencies Bitcoin and Waves. Its based on peer-to-peer and secure transactions using waves. BillionBond supply has only 10 XBB Tokens and its non re-issuable tokens.
 
 ## Billion Bond is 10x More Decentralized
 
@@ -45,6 +45,8 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 #### [CoinGecko](https://www.coingecko.com/en/coins/billionbond)
 
 ### VOTE FOR BILLIONBOND (XBB) AT [https://vote.xbts.io](https://vote.xbts.io)
+
+#### [Download](https://github.com/wavesfintech/billionbond/releases) Android APK file
 
 ### DISCLAIMER
 BillionBond (XBB) is Open Source and Decentralized, BillionBond can be used as a financial bond or commodity bond for infrastructures, real estates, any type of industrial security bond. 
