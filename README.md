@@ -48,6 +48,8 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 
 #### [Download](https://github.com/wavesfintech/billionbond/releases) Android APK file
 
+#### Click here to access [Web Wallet](https://wavesfintech.github.io/billionbondwallet/)
+
 ### DISCLAIMER
 BillionBond (XBB) is Open Source and Decentralized, BillionBond can be used as a financial bond or commodity bond for infrastructures, real estates, any type of industrial security bond. 
 
